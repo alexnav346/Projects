@@ -1,0 +1,4 @@
+﻿  calc.cpp
+D:\Old Computer Stuff\repos\calc\calc\calc.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+D:\Old Computer Stuff\repos\calc\calc\calc.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+  calc.vcxproj -> D:\Old Computer Stuff\repos\calc\Debug\calc.exe

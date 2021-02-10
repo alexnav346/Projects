@@ -1,0 +1,14 @@
+Address     Machine Code     Operands      Instructions
+002000      33FC             32            MOVE #50, $00002000
+002008      4E41             --            TRAP #1   --
+00200A      33C0             --            MOVE --   $00002004
+002010      3039             --            MOVE --   $00002000
+002016      D079             --            ADD  --   $00002004
+00201C      33C0             --            MOVE --   $00002002
+002022      0679             0C            ADDI #12, $00002002
+00202A      4E42             --            TRAP #2   --
+00202C      4E40             --            TRAP #0   --
+
+## SYMBOL TABLE ##
+LOOP1     200A
+LOOP2     2022
