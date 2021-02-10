@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  HashJoin.cpp
+c:\users\alex\source\repos\hashjoin\hashjoin\tables.h(80): warning C4018: '>': signed/unsigned mismatch
+c:\users\alex\source\repos\hashjoin\hashjoin\tables.h(182): warning C4018: '>': signed/unsigned mismatch
+c:\users\alex\source\repos\hashjoin\hashjoin\hashjoin.cpp(202): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\source\repos\hashjoin\hashjoin\hashjoin.cpp(222): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\source\repos\hashjoin\hashjoin\hashjoin.cpp(241): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\source\repos\hashjoin\hashjoin\hashjoin.cpp(269): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\source\repos\hashjoin\hashjoin\hashjoin.cpp(289): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\source\repos\hashjoin\hashjoin\hashjoin.cpp(308): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\source\repos\hashjoin\hashjoin\hashjoin.cpp(335): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\source\repos\hashjoin\hashjoin\hashjoin.cpp(355): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\source\repos\hashjoin\hashjoin\hashjoin.cpp(374): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\source\repos\hashjoin\hashjoin\hashjoin.cpp(397): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\source\repos\hashjoin\hashjoin\hashjoin.cpp(417): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\source\repos\hashjoin\hashjoin\hashjoin.cpp(436): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\source\repos\hashjoin\hashjoin\hashjoin.cpp(163): warning C4101: 'temp': unreferenced local variable
+c:\users\alex\source\repos\hashjoin\hashjoin\hashjoin.cpp(488): warning C4101: 'y': unreferenced local variable
+c:\users\alex\source\repos\hashjoin\hashjoin\hashjoin.cpp(488): warning C4101: 'x': unreferenced local variable
+c:\users\alex\source\repos\hashjoin\hashjoin\hashjoin.cpp(488): warning C4101: 'w': unreferenced local variable
+c:\users\alex\source\repos\hashjoin\hashjoin\hashjoin.cpp(45): warning C4715: 'checkInput': not all control paths return a value
+  HashJoin.vcxproj -> C:\Users\Alex\source\repos\HashJoin\Debug\HashJoin.exe
