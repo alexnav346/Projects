@@ -20,6 +20,8 @@ MainWindow::MainWindow(QWidget *parent)
 
     qApp->setWindowIcon(QIcon("///home/alex/testProject/index.png"));
 
+    ui->tabWidget->setCurrentIndex(0);
+
     //Initializing Phone Tab Buttons
 
     QPushButton *numButtons[10];
